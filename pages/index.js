@@ -1,7 +1,5 @@
-import { useEffect, useState } from "react";
 import Head from "next/head";
 import Link from "next/link";
-import axios from "axios";
 import blogs from "../data/blogs.js";
 
 const Home = () => {
